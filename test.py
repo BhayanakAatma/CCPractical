@@ -1,0 +1,1 @@
+print("Thanks for checking my practical")
